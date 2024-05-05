@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikto132
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning svelte
 - 💞️ I’m looking to collaborate on web development
 - 📫 My email: vikto132@gmail.com
 
